@@ -1,4 +1,4 @@
-# BMI_Calculator
+# 🍕 BMI_Calculator 🍩
 > This project was made initially to study and improve my logical and technical skills using Python and good programming practices, as well as to practice English for technology.
 
 ---
@@ -7,7 +7,7 @@
 
 ---
 
-## Table of Contents
+## 📜 Table of Contents
 
 1. [About](#About)  
 2. [Features](#Features)  
@@ -21,13 +21,13 @@
 
 ---
 
-## About
+## 📌 About
 
 > Command-line application to calculate BMI for multiple patients and produce consolidated reports, designed as a study project to demonstrate Python best practices.
 
 ---
 
-## Features
+## 💻 Features
 
 - BMI calculation for multiple patients
 - Classification by range (underweight, normal, overweight, obese 1-3)
@@ -41,14 +41,14 @@
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 ![screenshot main](images/main_frame.png)
 ![screenshot results](images/end_resume.png)
 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology / Library |
 |---|---|
@@ -58,7 +58,7 @@
 ---
 
 
-## Prerequisites
+## ⚙️ Prerequisites
 
 - Python 3.12+  
 
@@ -66,7 +66,7 @@
 ---
 
 
-## Installation
+## 🔨 Installation
 
 ```bash
 git clone <REPO_URL>
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
+## 🖥️ Usage
 
 ```bash
 python BMI_calculator.py
@@ -90,7 +90,7 @@ python BMI_calculator.py
 ---
 
 
-## Roadmap
+## 🛤️ Roadmap
 
 | Version | Goal |
 |---|---|
@@ -101,7 +101,7 @@ python BMI_calculator.py
 
 ---
 
-## Author
+## 😎 Author
 
 **Natália Kiefer** — [GitHub](https://github.com/nkf-kiefer)
 
